@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to DevOps applications on OpenShift PaaS Platform</h1>
+            <h1>Welcome to Atmecs </h1>
           </hgroup>
 
 
