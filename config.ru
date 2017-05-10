@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CandyBoy application on OpenShift</h1>
+            <h1>Welcome to your PaaS application on OpenShift</h1>
           </hgroup>
 
 
